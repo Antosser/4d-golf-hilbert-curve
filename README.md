@@ -11,7 +11,9 @@ The code in this repository was used to generate the 24x24 and 8x8x8 Hilbert's C
 - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3210437890)
 
 ## Generate your own
-**Numpy has to be installed**
+### Dependencies
+- Numpy (`pip3 install numpy`)
+- gilbert functions (`python3 download.py`)
 
 ### 2D
 ```bash
